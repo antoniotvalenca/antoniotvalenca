@@ -1,16 +1,25 @@
+<style>
+  p {
+    padding: 20px;
+  }
+</style>
 <h1 align="center"> Antonio Valença 🌧 </h1>
 <h3 align="center">software engineering around, but also passionate about pentesting and web security</h3>
+<br>
+<br>
+<br>
+<p>
+\- 🥢 undergraduate computer scientist at cesar school
 
-<p padding="20px">
-- 🥢 undergraduate computer scientist at cesar school
-
-- 🥡 based in recife, brazil
+\- 🥡 based in recife, brazil
   
-- 🍱 currently front-ending for amigo tech
+\- 🍱 currently front-ending for amigo tech
 
-- 🍙 reach me at antoniotvalenca@gmail.com
+\- 🍙 reach me at antoniotvalenca@gmail.com
 </p>
-
+<br>
+<br>
+<br>
 <p>in case you're looking for something else:</p>
 
 <p align="left">

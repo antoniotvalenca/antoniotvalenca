@@ -1,6 +1,7 @@
 <h1 align="center"> Antonio Valença 🌧 </h1>
 <h3 align="center">software engineering around, but also passionate about pentesting and web security</h3>
 
+<p padding="20px">
 - 🥢 undergraduate computer scientist at cesar school
 
 - 🥡 based in recife, brazil
@@ -8,7 +9,8 @@
 - 🍱 currently front-ending for amigo tech
 
 - 🍙 reach me at antoniotvalenca@gmail.com
-  
+</p>
+
 <p>in case you're looking for something else:</p>
 
 <p align="left">

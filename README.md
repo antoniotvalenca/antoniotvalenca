@@ -3,6 +3,7 @@
 <br>
 <br>
 <br>
+<p>
 - 🥢 undergraduate computer scientist at cesar school
 <br>
 \- 🥡 based in recife, brazil
@@ -10,6 +11,7 @@
 \- 🍱 currently front-ending for amigo tech
 <br>
 \- 🍙 reach me at antoniotvalenca@gmail.com
+</p>
 <br>
 <br>
 <br>

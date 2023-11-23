@@ -19,6 +19,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/antonio-valen%C3%A7a-7865511b1/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniotvalenca" width="30" /></a>
-  <p>   </p>
+  <span>  </span>
   <a href="https://www.instagram.com/antoniotvalenca"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antoniotvalenca" width="30" /></a>
 </p>

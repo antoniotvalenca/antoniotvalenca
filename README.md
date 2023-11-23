@@ -3,15 +3,13 @@
 <br>
 <br>
 <br>
-<p>
-- 🥢 undergraduate computer scientist at cesar school
+<p>- 🥢 undergraduate computer scientist at cesar school</p>
 <br>
-- 🥡 based in recife, brazil
+<p>- 🥡 based in recife, brazil</p>
 <br>
-- 🍱 currently front-ending for amigo tech
+<p>- 🍱 currently front-ending for amigo tech</p>
 <br>
-- 🍙 reach me at antoniotvalenca@gmail.com
-</p>
+<p>- 🍙 reach me at antoniotvalenca@gmail.com</p>
 <br>
 <br>
 <br>

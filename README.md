@@ -1,7 +1,17 @@
-<h1> Antonio Valença,  22 </h1>
-<p> <strong> COMPUTER SCIENCE UNDERGRADUATE STUDENT at: </strong> Cesar School </p>
-<p> <strong> FRONT END DEV. at: </strong> Amigo Tech </p>
-<p> <strong> CURRENTLY BASED in: </strong> Recife (Brazil) </p>
+<h1 align="center"> Antonio Valença 🌧 </h1>
+<h3 align="center">software engineering around, but also passionate about pentesting and web security</h3>
 
-![Snake animation](https://github.com/antoniotvalenca/antoniotvalenca/blob/output/github-contribution-grid-snake.svg)
-</div>
+- 🥢 undergraduate computer scientist at cesar school
+
+- 🥡 based in recife, brazil
+  
+- 🍱 currently front-ending for amigo tech
+
+- 🍙 reach me at antoniotvalenca@gmail.com
+  
+<p>in case you're looking for something else:</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/antonio-valen%C3%A7a-7865511b1/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniotvalenca" height="15" width="20" /></a>
+  <a href="https://www.instagram.com/antoniotvalenca"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antoniotvalenca" height="15" width="20" /></a>
+</p>

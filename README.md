@@ -7,7 +7,7 @@
 <br>
 <p>- 🥡 based in recife, brazil</p>
 <br>
-<p>- 🍱 currently front-ending for amigo tech</p>
+<p>- 🍱 web dev. and data analyst at @amigotech</p>
 <br>
 <p>- 🍙 reach me at antoniotvalenca@gmail.com</p>
 <br>

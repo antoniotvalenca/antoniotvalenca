@@ -5,7 +5,7 @@
 <br>
 <p>- 🥢 undergraduate computer scientist at cesar school</p>
 <br>
-<p>- 🥡 based in recife, brazil</p>
+<p>- 🥡 based in sao paulo, brazil</p>
 <br>
 <p>- 🍱 web dev. and data analyst at @amigotech</p>
 <br>

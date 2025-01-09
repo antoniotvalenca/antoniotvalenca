@@ -2,11 +2,9 @@
 <br>
 <br>
 <br>
-<p>- 🥢 undergraduate computer scientist at cesar school</p>
+<p>- 🥢 undergraduate computer scientist at mackenzie, sp</p>
 <br>
 <p>- 🥡 based in sao paulo, brazil</p>
-<br>
-<p>- 🍱 web dev. and data analyst at @amigotech</p>
 <br>
 <p>- 🍙 reach me at antoniotvalenca@gmail.com</p>
 <br>
